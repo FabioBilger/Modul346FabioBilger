@@ -1,3 +1,9 @@
 # Modul346
 
-hallo
+On Premise Cloud:
+
+Private Cloud:
+
+Public Cloud:
+
+Hybrid Cloud:
