@@ -13,5 +13,6 @@
 <h3><b>Private Cloud</b></h3>
 
 <p style="font-size: medium;">
-    Eine private Cloud
+    Eine private Cloud ist eine CLoud welche unabhängig von Ort oder Besitzer ist. Als Beispiel steht der Server bei einem im Keller aber mann kann auch von externen         Netzwerken darauf zugreifen.
+    
 </p>
