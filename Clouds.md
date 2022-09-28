@@ -17,7 +17,7 @@
     Eine Private Cloud ist ein Cloud Modell, bei dem die Infrastruktur einem einzigen Anwender zugewiesen ist. Für eine Private Cloud gibt es verschiedene Hosting Möglichkeiten. 
     Entweder im eigenen Rechenzentrum, in einer Einrichtung eines Drittanbieters oder über einen Private Cloud-Anbieter.
 </p>
-<img src="https://cloudian.com/de/wp-content/uploads/sites/3/2022/04/private-cloud-icon.png" width="50%" >
+
 
 
 <h3><b>Public Cloud</b></h3>
@@ -34,5 +34,6 @@
     Mit Hybrid Clouds werden Mischformen dieser beiden Ansätze bezeichnet. So laufen bestimmte Dienste bei öffentlichen Anbietern über das Internet, während datenschutzkritische Anwendungen und Daten im Unternehmen betrieben und verarbeitet werden. 
     Die Herausforderung liegt hier in der Trennung der Prozesse in datenschutzkritische und -unkritische Workflows. Voraussetzung ist eine saubere und konsequente Klassifizierung der im Unternehmen vorhandenen und verarbeiteten Daten.
 </p>
-
+<br><br>
+<img src="https://cloudian.com/de/wp-content/uploads/sites/3/2022/04/private-cloud-icon.png" width="50%" >
 
