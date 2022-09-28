@@ -2,7 +2,7 @@
 
 On Premise Cloud:
 
-![On Premise](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![On Premise](https://www.onlinesolutionsgroup.de/wp-content/uploads/on-premise.jpg?raw=true)
 
 Private Cloud:
 
