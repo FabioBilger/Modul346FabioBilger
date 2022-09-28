@@ -10,10 +10,11 @@
 <img src="https://www.onlinesolutionsgroup.de/wp-content/uploads/on-premise.jpg" width="50%" >
 <a href="https://www.vmware.com/de/topics/glossary/content/private-cloud-vs-public-cloud.html"><b>Quelle</b></a>
 
-<h3><b>Private Cloud</b></h3>
+<h3><b>Public Cloud</b></h3>
 
 <p style="font-size: medium;">
-    Eine Private Cloud ist ein Cloud Modell, bei dem die Infrastruktur einem einzigen Anwender zugewiesen ist. Für eine Private Cloud gibt es verschiedene Hosting  Möglichkeiten. 
-    Entweder im eigenen Rechenzentrum, in einer Einrichtung eines Drittanbieters oder über einen Private Cloud-Anbieter.
+    Die Public Cloud oder öffentliche Cloud ist ein Angebot eines frei zugänglichen Anbieters, der seine Dienste offen über das Internet für jedermann zugänglich macht. 
+    Webmail-Dienste oder die bekannten Google-Docs sind ebenso Beispiele für Public Clouds wie die kostenpflichtigen Services eines Microsoft Office 365.
 </p>
-<img src="https://cloudian.com/de/wp-content/uploads/sites/3/2022/04/private-cloud-icon.png" width="50%" >
+
+
