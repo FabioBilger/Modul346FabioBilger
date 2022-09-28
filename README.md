@@ -10,4 +10,4 @@ Unter folgendem Link findest du weitere Informationen:
 Es gibt verschiedene Arten von Clouds.
 Unter folgendem Link findest du weitere Informationen:
 </p>
-<a href="https://github.com/FabioBilger/Modul346/blob/main/Clouds.md"> Verschiedene Cloud Arten </a>
+<a href="https://github.com/FabioBilger/Modul346/blob/main/Clouds.md"> IaaS, SaaS & PaaS </a>
