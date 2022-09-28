@@ -9,7 +9,7 @@
 </p>
 <img src="https://www.onlinesolutionsgroup.de/wp-content/uploads/on-premise.jpg" width="50%" >
 <a href="https://www.vmware.com/de/topics/glossary/content/private-cloud-vs-public-cloud.html"><b>Quelle</b></a>
-
+<br>
 
 <h3><b>Private Cloud</b></h3>
 
