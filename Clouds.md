@@ -35,5 +35,5 @@
     Die Herausforderung liegt hier in der Trennung der Prozesse in datenschutzkritische und -unkritische Workflows. Voraussetzung ist eine saubere und konsequente Klassifizierung der im Unternehmen vorhandenen und verarbeiteten Daten.
 </p>
 <br><br>
-<img src="https://cloudian.com/de/wp-content/uploads/sites/3/2022/04/private-cloud-icon.png" width="50%" >
+<img src="https://www.continum.net/wp-content/uploads/continum-hybrid-cloud.png" width="50%" >
 
