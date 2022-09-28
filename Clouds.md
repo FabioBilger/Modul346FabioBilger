@@ -27,7 +27,7 @@
     Webmail-Dienste oder die bekannten Google-Docs sind Beispiele für Public Cloud Angebote.
 </p>
 
-
+<br><br>
 <h3><b>Hybrid Cloud</b></h3>
 
 <p style="font-size: medium;">
